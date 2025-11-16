@@ -1,4 +1,3 @@
-
 /*** Spinner Start ***/
 /*** Spinner ***/
 #spinner {
@@ -29,6 +28,17 @@
 }
 
 /*** Button Start ***/
+.logo {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.logo i {
+    font-size: 20px;
+    color: var(--bs-secondary);
+}
+
 .btn {
     font-weight: 600;
     transition: .5s;
